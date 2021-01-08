@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### 🌱 I’m currently learning 
- * netty[https://github.com/zhangyp16/netty]
+ * [netty](https://github.com/zhangyp16/netty)
